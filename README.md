@@ -133,7 +133,7 @@ GitHub:
 https://github.com/junaidgoraya
 
 LinkedIn:
-https://www.linkedin.com/in/ali-raqeeb-4b3557304/
+[https://www.linkedin.com/in/ali-raqeeb-4b3557304/](https://www.linkedin.com/in/muhammad-junaid-goraya-50a503394/)
 
 ---
 
